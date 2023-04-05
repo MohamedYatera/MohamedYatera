@@ -2,8 +2,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://user-images.git)
 <h1 align="center">Hi 👋, I'm Mohamed Yatera</h1>
 <h3 align="center">A Software Engineering student at the University of Ottawa</h3>
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://i.gifer.com/IjT7.mp4")
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedyatera&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedyatera" /> </p>
 
