@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **myate081@uottawa.ca**
 
-- ⚡ Fun fact **I like working out**
+- ⚡ Fun fact **I like working out, watching anime and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
