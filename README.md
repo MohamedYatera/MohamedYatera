@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My personal Website**
 
-- 🌱 I’m currently learning **FireBase and React**
+- 🌱 I’m currently doing **Web development**
 
 - 📫 How to reach me **myate081@uottawa.ca**
 
