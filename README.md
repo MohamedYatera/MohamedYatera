@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **myate081@uottawa.ca**
 
-- ⚡ Fun fact **I like working out, watching anime and doing leetcode problems**
+- ⚡ Fun fact **I like working  and watching anime**
 
 https://leetcode.com/u/OblivionGliscor/
 
