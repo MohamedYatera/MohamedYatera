@@ -4,9 +4,9 @@
 <h3 align="center">A Software Engineering student at the University of Ottawa</h3>
 
 
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact)
-</div>
+
 
 <div align="center">
   🔭 I’m currently working on **My personal Website**
