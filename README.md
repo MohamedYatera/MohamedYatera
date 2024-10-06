@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://user-images.git)
+
 <h1 align="center">Hi 👋, I'm Mohamed Yatera</h1>
 <h3 align="center">A Software Engineering student at the University of Ottawa</h3>
 
