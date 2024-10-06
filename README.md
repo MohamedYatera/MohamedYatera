@@ -5,7 +5,9 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact" alt="Top Langs" />
+</div>
 
 
 <div align="center">
