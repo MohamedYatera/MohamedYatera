@@ -4,16 +4,18 @@
 <h3 align="center">A Software Engineering student at the University of Ottawa</h3>
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact)
 <div align="center">
-- 🔭 I’m currently working on **My personal Website**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact)
+</div>
 
-- 🌱 I’m currently doing **Web development**
+<div align="center">
+  🔭 I’m currently working on **My personal Website**
 
-- 📫 How to reach me **myate081@uottawa.ca**
+  🌱 I’m currently doing **Web development**
 
-- ⚡ Fun fact **I like working  and watching anime**
+  📫 How to reach me **myate081@uottawa.ca**
+
+  ⚡ Fun fact **I like working  and watching anime**
 
 </div>
 
