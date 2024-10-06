@@ -5,7 +5,7 @@
 
 
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedYatera)](https://github.com/MohamedYatera/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera)](https://github.com/MohamedYatera/github-readme-stats)
 
 - 🔭 I’m currently working on **My personal Website**
 
