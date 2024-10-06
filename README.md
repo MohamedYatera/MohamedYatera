@@ -10,18 +10,6 @@
 </div>
 
 
-<div align="center">
-  🔭 I’m currently working on **My personal Website**
-
-  🌱 I’m currently doing **Web development**
-
-  📫 How to reach me **myate081@uottawa.ca**
-
-  ⚡ Fun fact **I like working  and watching anime**
-
-</div>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-yatera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-yatera/" height="30" width="40" /></a>
