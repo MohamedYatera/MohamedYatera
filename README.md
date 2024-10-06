@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedyatera&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedyatera" /> </p>
+
 
 - 🔭 I’m currently working on **My personal Website**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I like working  and watching anime**
 
-https://leetcode.com/u/OblivionGliscor/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
