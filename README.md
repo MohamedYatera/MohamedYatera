@@ -6,7 +6,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact)
-
+<div align="center">
 - 🔭 I’m currently working on **My personal Website**
 
 - 🌱 I’m currently doing **Web development**
@@ -15,6 +15,7 @@
 
 - ⚡ Fun fact **I like working  and watching anime**
 
+</div>
 
 
 <h3 align="center">Connect with me:</h3>
