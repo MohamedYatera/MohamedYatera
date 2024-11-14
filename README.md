@@ -10,7 +10,9 @@
 - ⚡ Fun fact **I like working out, watching anime and doing leetcode problems**
 
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact" alt="Top Langs" />
+</div>
 
 
 
