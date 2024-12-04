@@ -17,11 +17,11 @@
 <h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <h2 align="center">Languages</h2>
+    <h4 align="center">Languages</h4>
     <img src="https://skillicons.dev/icons?i=py,java,js,html,css,mysql,bash,elixir,cs" />
-     <h2 align="center">Frameworks</h2>
+     <h4 align="center">Frameworks</h4>
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,selenium,postgres,bootstrap" />
-     <h2 align="center">Technologiess</h2>
+     <h4 align="center">Technologiess</h4>
     <img src="https://skillicons.dev/icons?i=androidstudio,postman,azure,linux,redhat,firebase,git,npm,vscode,eclipse,pycharm,vim" />
   </a>
 </p>
