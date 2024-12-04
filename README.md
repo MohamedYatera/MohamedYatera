@@ -3,11 +3,11 @@
 <h1 align="center">👋, I'm Mohamed Yatera</h1>
 <h3 align="center">3rd Year Software Engineering student at the University of Ottawa</h3>
 
-- 🔭 I’m currently working on learning **backend technologies** and mastering **full stack development**
+- 🔭 I’m currently working on mastering **full stack development** and getting into ** machine learning/ai**
 
-- 📫 How to reach me **myate081@uottawa.ca**
+- 📫 How to reach me **myate081@uottawa.ca or yateramohamed25@gmail.com**
 
-- ⚡ Fun fact **I like working out, watching anime and doing leetcode problems**
+- ⚡ Fun fact **I like doing calisthenics and watching anime/reading manga**
 
 
 <div align="center">
