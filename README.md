@@ -14,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedYatera&layout=compact" alt="Top Langs" />
 </div>
 
+<h3 align="center">Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
