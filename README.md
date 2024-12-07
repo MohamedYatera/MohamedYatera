@@ -3,7 +3,7 @@
 <h1 align="center">👋, I'm Mohamed Yatera</h1>
 <h3 align="center">3rd Year Software Engineering student at the University of Ottawa</h3>
 
-- 🔭 I’m currently working on mastering **full stack development** and getting into ** machine learning/ai**
+- 🔭 I’m currently working on mastering **full stack development **and getting into ** machine learning/ai**
 
 - 📫 How to reach me **myate081@uottawa.ca or yateramohamed25@gmail.com**
 
